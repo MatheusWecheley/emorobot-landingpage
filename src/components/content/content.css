@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;300&display=swap');
 
 .Container-content {
+    background-color: rgba(216, 211, 211, 0.411);
     display: flex;
     justify-content: center;
     align-items: center;

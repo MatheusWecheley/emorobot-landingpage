@@ -4,6 +4,7 @@ import './content.css'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 import ButtonPay from '../button/buttonPay'
+import Robot from '../robot/robot'
 
 const Content = () => {
 
