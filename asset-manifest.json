@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/emorobot-build/static/css/main.ee28b42f.css",
+    "main.js": "/emorobot-build/static/js/main.074caa4d.js",
+    "static/js/787.eb4f21d7.chunk.js": "/emorobot-build/static/js/787.eb4f21d7.chunk.js",
+    "static/media/2.png": "/emorobot-build/static/media/2.ced9318958868852c2d5.png",
+    "static/media/1.png": "/emorobot-build/static/media/1.939a5ce21118438715cc.png",
+    "static/media/emo.png": "/emorobot-build/static/media/emo.50c044b6496e13c71fbc.png",
+    "index.html": "/emorobot-build/index.html",
+    "main.ee28b42f.css.map": "/emorobot-build/static/css/main.ee28b42f.css.map",
+    "main.074caa4d.js.map": "/emorobot-build/static/js/main.074caa4d.js.map",
+    "787.eb4f21d7.chunk.js.map": "/emorobot-build/static/js/787.eb4f21d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee28b42f.css",
+    "static/js/main.074caa4d.js"
+  ]
+}
